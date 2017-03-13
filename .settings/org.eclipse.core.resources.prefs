@@ -1,2 +1,9 @@
 eclipse.preferences.version=1
+encoding//src/main/java/com/wisely/highlight_spring4/ch1/aop/AspectConfig.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch1/aop/ContextConfig.java=UTF-8
 encoding//src/main/java/com/wisely/highlight_spring4/ch1/di/DiConfig.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/DemoService.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/ElConfig.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/el/test.txt=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/initdestory/BeanConfig.java=UTF-8
+encoding//src/main/java/com/wisely/highlight_spring4/ch2/initdestory/JSR250.java=UTF-8
